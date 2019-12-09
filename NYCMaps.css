@@ -1,0 +1,42 @@
+h1{text-align: center;
+	font-family: sans-serif;
+	margin-top: 50pt;
+	margin-bottom: 0pt;
+	font-weight: bolder;}
+
+h2{text-align: center;
+	font-family: sans-serif;
+	font-weight: normal;
+	font-size: 16pt; 
+	margin-bottom: 40pt;
+	margin-top: 10pt;}
+
+hr{width: 475pt;
+	margin-top: 10pt;
+	border-top: 2px solid #5374B6}
+
+	p{font-family: sans-serif;
+		width: 475pt;
+		margin-left: 290pt;
+	text-align: center;
+	font-weight: lighter;
+	font-size: 10pt;
+	margin-top: 30pt;
+	margin-bottom: 50pt;}
+
+	iframe{margin-bottom: 10pt;
+		margin-left:40pt;
+		margin-top: 45px;}
+
+figcaption{font-family:sans-serif;
+		margin-left: 52px;
+		font-style: italic;}
+
+.rightside {margin-left: 730px;
+			margin-top: -19px;}
+
+.footnoteend {color: #5374B6;
+		font-family: sans-serif;
+			font-weight: normal;
+			margin-top: 60px;
+			text-align: center;}
